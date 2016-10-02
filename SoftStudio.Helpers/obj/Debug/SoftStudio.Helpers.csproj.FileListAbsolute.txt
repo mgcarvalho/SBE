@@ -1,0 +1,5 @@
+C:\Profissional\Projetos\SBE\Fonte\Main\SoftStudio.Helpers\bin\Debug\SoftStudio.Helpers.dll
+C:\Profissional\Projetos\SBE\Fonte\Main\SoftStudio.Helpers\bin\Debug\SoftStudio.Helpers.pdb
+C:\Profissional\Projetos\SBE\Fonte\Main\SoftStudio.Helpers\obj\Debug\SoftStudio.Helpers.csprojResolveAssemblyReference.cache
+C:\Profissional\Projetos\SBE\Fonte\Main\SoftStudio.Helpers\obj\Debug\SoftStudio.Helpers.dll
+C:\Profissional\Projetos\SBE\Fonte\Main\SoftStudio.Helpers\obj\Debug\SoftStudio.Helpers.pdb

@@ -1,0 +1,4 @@
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.Desktop\bin\Debug\SBE.Desktop.exe.config
+C:\Profissional\Projetos\SBE\Fonte\SBE\SBE.Desktop\bin\Debug\SBE.Desktop.exe.config
+C:\Profissional\Projetos\SBE\Fonte\SBE\SBE.Desktop\obj\Debug\SBE.Desktop.exe
+C:\Profissional\Projetos\SBE\Fonte\SBE\SBE.Desktop\obj\Debug\SBE.Desktop.pdb

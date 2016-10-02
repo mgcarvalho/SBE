@@ -74,4 +74,38 @@ Global
 		{78C11559-98D9-4A66-BCD2-8FCD96A4063E} = {892AD030-D8F6-4145-9030-22D397C5F70E}
 		{A6CFADD3-6138-4057-B2B4-35A773BC9956} = {906702EA-9A79-4811-BB45-BD4FC6BC8341}
 	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mgcarvalho.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SBE.Desktop\\SBE.Desktop.csproj
+		SccProjectTopLevelParentUniqueName1 = SBE.sln
+		SccProjectName1 = SBE.Desktop
+		SccLocalPath1 = SBE.Desktop
+		SccProjectUniqueName2 = SBE.Web\\SBE.Web.csproj
+		SccProjectTopLevelParentUniqueName2 = SBE.sln
+		SccProjectName2 = SBE.Web
+		SccLocalPath2 = SBE.Web
+		SccProjectUniqueName3 = SBE.Bussiness\\SBE.Business.csproj
+		SccProjectTopLevelParentUniqueName3 = SBE.sln
+		SccProjectName3 = SBE.Bussiness
+		SccLocalPath3 = SBE.Bussiness
+		SccProjectUniqueName4 = SBE.DataLayer\\SBE.DataLayer.csproj
+		SccProjectTopLevelParentUniqueName4 = SBE.sln
+		SccProjectName4 = SBE.DataLayer
+		SccLocalPath4 = SBE.DataLayer
+		SccProjectUniqueName5 = SBE.DataEntities\\SBE.DataEntities.csproj
+		SccProjectTopLevelParentUniqueName5 = SBE.sln
+		SccProjectName5 = SBE.DataEntities
+		SccLocalPath5 = SBE.DataEntities
+		SccProjectUniqueName6 = SBE.WebServices\\SBE.WebServices.csproj
+		SccProjectTopLevelParentUniqueName6 = SBE.sln
+		SccProjectName6 = SBE.WebServices
+		SccLocalPath6 = SBE.WebServices
+		SccProjectUniqueName7 = SoftStudio.Helpers\\SoftStudio.Helpers.csproj
+		SccProjectTopLevelParentUniqueName7 = SBE.sln
+		SccProjectName7 = SoftStudio.Helpers
+		SccLocalPath7 = SoftStudio.Helpers
+	EndGlobalSection
 EndGlobal

@@ -1,0 +1,12 @@
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.DataLayer\bin\Debug\SBE.DataLayer.dll
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.DataLayer\bin\Debug\SBE.DataLayer.pdb
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.DataLayer\obj\Debug\SBE.DataLayer.csprojResolveAssemblyReference.cache
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.DataLayer\obj\Debug\SBE.DataLayer.dll
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.DataLayer\obj\Debug\SBE.DataLayer.pdb
+C:\Profissional\Projetos\SBE\Fonte\SBE\SBE.DataLayer\bin\Debug\SBE.DataLayer.dll
+C:\Profissional\Projetos\SBE\Fonte\SBE\SBE.DataLayer\bin\Debug\SBE.DataLayer.pdb
+C:\Profissional\Projetos\SBE\Fonte\SBE\SBE.DataLayer\bin\Debug\EntityFramework.dll
+C:\Profissional\Projetos\SBE\Fonte\SBE\SBE.DataLayer\bin\Debug\EntityFramework.xml
+C:\Profissional\Projetos\SBE\Fonte\SBE\SBE.DataLayer\obj\Debug\SBE.DataLayer.csprojResolveAssemblyReference.cache
+C:\Profissional\Projetos\SBE\Fonte\SBE\SBE.DataLayer\obj\Debug\SBE.DataLayer.dll
+C:\Profissional\Projetos\SBE\Fonte\SBE\SBE.DataLayer\obj\Debug\SBE.DataLayer.pdb

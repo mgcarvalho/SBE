@@ -1,0 +1,5 @@
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.Bussiness\bin\Debug\SBE.Business.dll
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.Bussiness\bin\Debug\SBE.Business.pdb
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.Bussiness\obj\Debug\SBE.Business.csprojResolveAssemblyReference.cache
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.Bussiness\obj\Debug\SBE.Business.dll
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.Bussiness\obj\Debug\SBE.Business.pdb

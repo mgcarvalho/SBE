@@ -1,0 +1,5 @@
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.WebServices\bin\Debug\SBE.WebServices.dll
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.WebServices\bin\Debug\SBE.WebServices.pdb
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.WebServices\obj\Debug\SBE.WebServices.csprojResolveAssemblyReference.cache
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.WebServices\obj\Debug\SBE.WebServices.dll
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.WebServices\obj\Debug\SBE.WebServices.pdb

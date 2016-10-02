@@ -1,0 +1,5 @@
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.DataEntities\bin\Debug\SBE.DataEntities.dll
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.DataEntities\bin\Debug\SBE.DataEntities.pdb
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.DataEntities\obj\Debug\SBE.DataEntities.csprojResolveAssemblyReference.cache
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.DataEntities\obj\Debug\SBE.DataEntities.dll
+C:\Profissional\Projetos\SBE\Fonte\Main\SBE.DataEntities\obj\Debug\SBE.DataEntities.pdb
